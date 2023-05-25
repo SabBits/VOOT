@@ -1,6 +1,6 @@
 <h1 align="center">
   <img alt="cgapp logo" src="https://upload.wikimedia.org/wikipedia/en/8/89/Voot_website_logo.png" width="240px"/><br/>
-  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">VOOT IPTV</a> ⭐️
+  ⭐️ <a href="https://raw.githubusercontent.com/sabbiriptv/VOOT-IPTV/main/VOOT.m3u">VOOT IPTV</a> ⭐️
 </h1>
 <p align="center">An <a href="https://raw.githubusercontent.com/sabbiriptv/JIO_IPTV/main/JIO.m3u">M3U</a> File Containing <b>Free</b> Streamable Links</p>
 
